@@ -9,3 +9,4 @@ Swagger 文档翻译
 - [基本结构](/basicStructure.md)
 - [主机名和根目录设置](/apiHostAndBaseURL.md)
 - [MIME 类型](/mimeTypes.md)
+- [API 路径和操作](/pathsAndOperations.md)

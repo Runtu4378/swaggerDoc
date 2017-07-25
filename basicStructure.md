@@ -102,7 +102,7 @@ paths:
           description: OK
 ```
 
-> 更多内容：[路径和操作](https://swagger.io/docs/specification/paths-and-operations/)
+> 更多内容：[API 路径和操作](https://github.com/Runtu4378/swaggerDoc/blob/master/pathsAndOperations.md)
 
 ## Responses(应答)
 
