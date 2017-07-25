@@ -68,7 +68,7 @@ schemes:
 
 所有 API 路径都是以 base URL 为根的相对路径，如 `/users` 实际上是 `https://api.example.com/v1/users`。
 
-> 更多内容：[API 主机和 Base URL](https://swagger.io/docs/specification/api-host-and-base-path/)
+> 更多内容：[主机名和根目录设置](https://github.com/Runtu4378/swaggerDoc/blob/master/apiHostAndBaseURL.md)
 
 ## Consumes, Produces(请求内容格式，应答内容格式)
 
@@ -83,7 +83,7 @@ produces:
   - application/xml
 ```
 
-> 更多内容：[MIME 类型](https://swagger.io/docs/specification/mime-types/)
+> 更多内容：[MIME 类型](https://github.com/Runtu4378/swaggerDoc/blob/master/mimeTypes.md)
 
 ## Paths(路径)
 
